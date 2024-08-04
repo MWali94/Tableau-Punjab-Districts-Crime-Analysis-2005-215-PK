@@ -16,24 +16,24 @@ Tools: Python, jupyter notebook, pandas library and the visual representation wa
 
 <ul>
     <li>Crime Count: From 2002 to 2015, Punjab,Pakistan reported a total of 4,586,460 crime cases.</li>
-    <strong>BAHAWALPUR DIVISION POPULATION:</strong>
+                    <strong>BAHAWALPUR DIVISION POPULATION:</strong>
     <li>All three districts (Bahawalnagar, Bahawalpur, R.Y. Khan) show population increases from 2002 to 2015.</li>
     <li>Crime rates in Bahawalnagar declined over the years</li>
     <li>Bahawalpur's crime rates peaked around 2008-2009.</li>
     <li>R.Y. Khan's crime rates steadily increased, peaking in 2011, making it the district with the highest crime rate.</li>
     <li>Population growth did not directly correlate with crime rates.</li>
-    <strong>BAHAWALPUR DIVISION CRIME TYPE:</strong>
+                    <strong>BAHAWALPUR DIVISION CRIME TYPE:</strong>
     <li>Attempted murders peaked in 2011 in all three districts: Bahawalpur, Bahawalnagar, and RY Khan.</li>
     <li>RY Khan consistently had higher crime rates compared to Bahawalnagar and Bahawalpur.</li>
-    <strong>Most common crimes by district:</strong>
+                    <strong>Most common crimes by district:</strong>
     <li>Bahawalnagar: Cattle theft and hurt, RY Khan: Hurt, kidnapping/abduction, and cattle theft, Hurt appears to be the most common crime in all three districts.</li>
-    <strong>LAHORE POPULATION/CRIME:</strong>>
+                    <strong>LAHORE POPULATION/CRIME:</strong>
     <li>All districts (Kasur, Lahore, Nankana Sahib, Sheikhupura) show population growth from 2006 to 2014.</li>
     <li>Lahore has the highest population in 2014.</li>
     <li>Lahore consistently has the highest crime numbers compared to other districts.</li>
     <li>Nankana Sahib has relatively low and stable crime rates.</li>
     <li>Lahore had the highest crime rate in 2014.</li>
-    <strong>LAHORE DIVISION CRIME TYPE:</strong>>
+                    <strong>LAHORE DIVISION CRIME TYPE:</strong>
     <li>Ordinary thefts appear to be the second most common crime in Lahore, Kasur, Sheikhupura, and Okara.</li>
     <li>Hurt is the second most common crime in Nankana Sahib.</li>
     <li>Miscellaneous crimes appear to be the most common crime in all districts.</li>
