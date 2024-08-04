@@ -16,7 +16,7 @@ Tools: Python, jupyter notebook, pandas library and the visual representation wa
 
 <ul>
     <li>Crime Count: From 2002 to 2015, Punjab,Pakistan reported a total of 4,586,460 crime cases.</li>
-    <li>**BAHAWALPUR DIVISION POPULATION:**</li>
+    >**<li>BAHAWALPUR DIVISION POPULATION:</li>>**
     <li>All three districts (Bahawalnagar, Bahawalpur, R.Y. Khan) show population increases from 2002 to 2015.</li>
     <li>Crime rates in Bahawalnagar declined over the years</li>
     <li>Bahawalpur's crime rates peaked around 2008-2009.</li>
