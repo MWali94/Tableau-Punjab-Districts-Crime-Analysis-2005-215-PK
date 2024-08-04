@@ -22,18 +22,18 @@ Tools: Python, jupyter notebook, pandas library and the visual representation wa
     <li>Bahawalpur's crime rates peaked around 2008-2009.</li>
     <li>R.Y. Khan's crime rates steadily increased, peaking in 2011, making it the district with the highest crime rate.</li>
     <li>Population growth did not directly correlate with crime rates.</li>
-    <li>**BAHAWALPUR DIVISION CRIME TYPE:**</li>
+    <strong>BAHAWALPUR DIVISION CRIME TYPE:</strong>
     <li>Attempted murders peaked in 2011 in all three districts: Bahawalpur, Bahawalnagar, and RY Khan.</li>
     <li>RY Khan consistently had higher crime rates compared to Bahawalnagar and Bahawalpur.</li>
-    <li>**Most common crimes by district:**</li>
+    <strong>Most common crimes by district:</strong>
     <li>Bahawalnagar: Cattle theft and hurt, RY Khan: Hurt, kidnapping/abduction, and cattle theft, Hurt appears to be the most common crime in all three districts.</li>
-    <li>**LAHORE POPULATION/CRIME:>**</li>
+    <strong>LAHORE POPULATION/CRIME:</strong>>
     <li>All districts (Kasur, Lahore, Nankana Sahib, Sheikhupura) show population growth from 2006 to 2014.</li>
     <li>Lahore has the highest population in 2014.</li>
     <li>Lahore consistently has the highest crime numbers compared to other districts.</li>
     <li>Nankana Sahib has relatively low and stable crime rates.</li>
     <li>Lahore had the highest crime rate in 2014.</li>
-    <li>>**LAHORE DIVISION CRIME TYPE:>**</li>
+    <strong>LAHORE DIVISION CRIME TYPE:</strong>>
     <li>Ordinary thefts appear to be the second most common crime in Lahore, Kasur, Sheikhupura, and Okara.</li>
     <li>Hurt is the second most common crime in Nankana Sahib.</li>
     <li>Miscellaneous crimes appear to be the most common crime in all districts.</li>
