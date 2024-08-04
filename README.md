@@ -16,7 +16,31 @@ Tools: Python, jupyter notebook, pandas library and the visual representation wa
 
 <ul>
     <li>Crime Count: From 2002 to 2015, Punjab,Pakistan reported a total of 4,586,460 crime cases.</li>
-    <li>Item 2</li>
+    <li>BAHAWALPUR DIVISION POPULATION:</li>
+    <li>All three districts (Bahawalnagar, Bahawalpur, R.Y. Khan) show population increases from 2002 to 2015.</li>
+    <li>Crime rates in Bahawalnagar declined over the years</li>
+    <li>Bahawalpur's crime rates peaked around 2008-2009.</li>
+    <li>R.Y. Khan's crime rates steadily increased, peaking in 2011, making it the district with the highest crime rate.</li>
+    <li>Population growth did not directly correlate with crime rates.</li>
+    <li>BAHAWALPUR DIVISION CRIME TYPE:</li>
+    <li>Attempted murders peaked in 2011 in all three districts: Bahawalpur, Bahawalnagar, and RY Khan.</li>
+    <li>RY Khan consistently had higher crime rates compared to Bahawalnagar and Bahawalpur.</li>
+    <li>Most common crimes by district:</li>
+    <li>Bahawalnagar: Cattle theft and hurt, RY Khan: Hurt, kidnapping/abduction, and cattle theft, Hurt appears to be the most common crime in all three districts.</li>
+    <li>LAHORE POPULATION/CRIME:</li>
+    <li>All districts (Kasur, Lahore, Nankana Sahib, Sheikhupura) show population growth from 2006 to 2014.</li>
+    <li>Lahore has the highest population in 2014.</li>
+    <li>Lahore consistently has the highest crime numbers compared to other districts.</li>
+    <li>Nankana Sahib has relatively low and stable crime rates.</li>
+    <li>Lahore had the highest crime rate in 2014.</li>
+    <li>LAHORE DIVISION CRIME TYPE:</li>
+    <li>Ordinary thefts appear to be the second most common crime in Lahore, Kasur, Sheikhupura, and Okara.</li>
+    <li>Hurt is the second most common crime in Nankana Sahib.</li>
+    <li>Miscellaneous crimes appear to be the most common crime in all districts.</li>
+    <li>All crimes peaked in 2006 in Okara.</li>
+    <li>Crime rates peaked in Sheikhupura from 2011 to 2012.</li>
+
+    
 </ul>
 
 # **Discussion & Conclusion**
